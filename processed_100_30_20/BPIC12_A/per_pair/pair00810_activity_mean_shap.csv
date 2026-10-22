@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73955,http://eventActivity.org/A_PREACCEPTED,A_PREACCEPTED,mean,1.1737248696374305,1.1737248696374305,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+2,73954,http://eventActivity.org/A_PARTLYSUBMITTED,A_PARTLYSUBMITTED,mean,1.1008866114255527,1.1008866114255527,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+3,48715,201202062018422330,201202062018422330,mean,0.4036491659061026,0.4036491659061026,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+4,80,112.0,112.0,mean,0.3843673358557776,0.3843673358557776,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+5,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.16659646061080555,0.16659646061080555,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+6,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+7,27,10629.0,10629.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+8,48,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+9,52,10932.0,10932.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+10,47,10912.0,10912.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+11,45,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+12,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+13,26,10609.0,10609.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+14,75,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+15,65,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+16,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+17,37,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+18,73,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+19,85,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+20,57,10972.0,10972.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+21,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+22,73952,http://eventActivity.org/A_DECLINED,A_DECLINED,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+23,71534,http://caseID.org/206940,206940,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+24,58,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215
+25,77,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,7,http://eventActivity.org/A_DECLINED,6.2945075035095215

@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,190001,http://eventActivity.org/W_Nabellen%20offertes,W_Nabellen%20offertes,mean,4.323623680129849,4.323623680129849,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+2,360111,http://eventOtherC.org/COMPLETE,COMPLETE,mean,1.2470265129928313,1.2470265129928313,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+3,171036,201202291924311970,201202291924311970,mean,-0.9861767187557404,0.9861767187557404,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+4,190002,http://eventActivity.org/W_Valideren%20aanvraag,W_Valideren%20aanvraag,mean,-0.41504652749509097,0.41504652749509097,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+5,85,11302.0,11302.0,mean,0.3978648379078193,0.3978648379078193,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+6,189999,http://eventActivity.org/W_Completeren%20aanvraag,W_Completeren%20aanvraag,mean,0.26752570929365327,0.26752570929365327,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+7,360113,http://eventOtherC.org/START,START,mean,-0.13765327323335744,0.13765327323335744,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+8,11,10138.0,10138.0,mean,-0.061828775435911254,0.061828775435911254,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+9,60,11049.0,11049.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+10,68,11181.0,11181.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+11,36,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+12,57,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+13,48,10933.0,10933.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+14,58,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+15,52,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+16,34,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+17,43,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+18,67,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+19,38,10899.0,10899.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+20,64,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+21,73,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+22,360112,http://eventOtherC.org/SCHEDULE,SCHEDULE,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+23,188893,http://caseID.org/209664,209664,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+24,62,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051
+25,82,11299.0,11299.0,mean,0.0,0.0,http://eventActivity.org/W_Nabellen%20offertes (id=1),activity,1,http://eventActivity.org/W_Nabellen%20offertes,7.087887763977051

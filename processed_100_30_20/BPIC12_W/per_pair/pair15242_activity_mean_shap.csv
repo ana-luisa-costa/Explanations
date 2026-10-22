@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,189997,http://eventActivity.org/W_Afhandelen%20leads,W_Afhandelen%20leads,mean,4.256968687541537,4.256968687541537,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+2,360112,http://eventOtherC.org/SCHEDULE,SCHEDULE,mean,2.886329714862265,2.886329714862265,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+3,154426,201202171449331760,201202171449331760,mean,-0.9858361071271077,0.9858361071271077,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+4,189999,http://eventActivity.org/W_Completeren%20aanvraag,W_Completeren%20aanvraag,mean,0.41397422251360844,0.41397422251360844,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+5,360113,http://eventOtherC.org/START,START,mean,0.229525205521558,0.229525205521558,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+6,70,112.0,112.0,mean,-0.19000858821993993,0.19000858821993993,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+7,11,10138.0,10138.0,mean,-0.1153530682532109,0.1153530682532109,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+8,24,10609.0,10609.0,mean,-0.08776618263262309,0.08776618263262309,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+9,52,10982.0,10982.0,mean,0.08644513042486011,0.08644513042486011,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+10,189068,http://caseID.org/210407,210407,mean,0.08059278111254392,0.08059278111254392,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+11,77,11259.0,11259.0,mean,0.07512789492821217,0.07512789492821217,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+12,34,10861.0,10861.0,mean,0.07432167033792893,0.07432167033792893,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+13,73,11203.0,11203.0,mean,0.03667831742613059,0.03667831742613059,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+14,360111,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.021758250156782802,0.021758250156782802,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+15,43,10913.0,10913.0,mean,0.02044017054380927,0.02044017054380927,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+16,64,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+17,40,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+18,59,11019.0,11019.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+19,62,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+20,58,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+21,65,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+22,48,10933.0,10933.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+23,57,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+24,36,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652
+25,38,10899.0,10899.0,mean,0.0,0.0,http://eventActivity.org/W_Afhandelen%20leads (id=4),activity,4,http://eventActivity.org/W_Afhandelen%20leads,8.562857627868652

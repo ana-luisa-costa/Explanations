@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73955,http://eventActivity.org/A_PREACCEPTED,A_PREACCEPTED,mean,2.5575974991393453,2.5575974991393453,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+2,73948,http://eventActivity.org/A_ACCEPTED,A_ACCEPTED,mean,1.1617042677474057,1.1617042677474057,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+3,52908,201202151722115380,201202151722115380,mean,0.46259765097915656,0.46259765097915656,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+4,73952,http://eventActivity.org/A_DECLINED,A_DECLINED,mean,-0.11850665291186598,0.11850665291186598,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+5,80,112.0,112.0,mean,0.05621417225860706,0.05621417225860706,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+6,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.0400139026326775,0.0400139026326775,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+7,73954,http://eventActivity.org/A_PARTLYSUBMITTED,A_PARTLYSUBMITTED,mean,0.020873596754912977,0.020873596754912977,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+8,26,10609.0,10609.0,mean,0.017787475810937516,0.017787475810937516,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+9,52,10932.0,10932.0,mean,0.016993078121084096,0.016993078121084096,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+10,77,11180.0,11180.0,mean,0.009182553247430114,0.009182553247430114,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+11,85,11203.0,11203.0,mean,0.00505926043860149,0.00505926043860149,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+12,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+13,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+14,27,10629.0,10629.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+15,48,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+16,47,10912.0,10912.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+17,37,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+18,75,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+19,58,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+20,57,10972.0,10972.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+21,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+22,73,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+23,72449,http://caseID.org/209787,209787,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+24,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527
+25,64,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/A_DECLINED (id=7),activity,2,http://eventActivity.org/A_ACCEPTED,5.039145469665527

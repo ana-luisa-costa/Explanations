@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,474609,http://eventOtherC.org/Created,Created,mean,5.867813489118655,5.867813489118655,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+2,280754,http://eventActivity.org/Create%20Offer,Create%20Offer,mean,3.3812001802069767,3.3812001802069767,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+3,280755,http://eventActivity.org/Created,Created,mean,1.3395079576175122,1.3395079576175122,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+4,280750,http://caseOtherC.org/False,False,mean,-0.560398908972925,0.560398908972925,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+5,225252,48,48,mean,0.38335813753040415,0.38335813753040415,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+6,668459,http://eventOtherC.org/statechange,statechange,mean,-0.3323847593155576,0.3323847593155576,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+7,0,0,0,mean,-0.2861616499507856,0.2861616499507856,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+8,4174,120,120,mean,0.2111388055601058,0.2111388055601058,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+9,634134,http://eventOtherC.org/Offer_1384033890,Offer_1384033890,mean,0.13038869580788004,0.13038869580788004,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+10,1,0.0,0.0,mean,0.08244209654904111,0.08244209654904111,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+11,4775,123,123,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+12,233413,80,80,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+13,232920,78,78,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+14,221701,36,36,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+15,6,10,10,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+16,5407,126,126,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+17,4,1,1,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+18,225530,49,49,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+19,228630,60,60,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+20,219573,3,3,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+21,222980,40,40,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+22,185666,20161114160743413,20161114160743413,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+23,246425,http://caseID.org/1384033890,1384033890,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+24,227595,56,56,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547
+25,8,100,100,mean,0.0,0.0,http://eventActivity.org/Created (id=0),activity,0,http://eventActivity.org/Created,12.170848846435547

@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73948,http://eventActivity.org/A_ACCEPTED,A_ACCEPTED,mean,4.316435465516259,4.316435465516259,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+2,73953,http://eventActivity.org/A_FINALIZED,A_FINALIZED,mean,1.5769009646438015,1.5769009646438015,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+3,73952,http://eventActivity.org/A_DECLINED,A_DECLINED,mean,-0.663022200772591,0.663022200772591,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+4,73951,http://eventActivity.org/A_CANCELLED,A_CANCELLED,mean,-0.5867828034519279,0.5867828034519279,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+5,92,11299.0,11299.0,mean,0.32414645602199954,0.32414645602199954,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+6,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,-0.09224682956155121,0.09224682956155121,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+7,84438,http://eventID.org/1_206357,A_SUBMITTED | t=201202031954573950,mean,0.05015233741346048,0.05015233741346048,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+8,84430,http://eventID.org/1_206333,A_SUBMITTED | t=201202031743515630,mean,-0.031716599778633114,0.031716599778633114,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+9,84428,http://eventID.org/1_206327,A_SUBMITTED | t=201202031723419490,mean,-0.028859806750634747,0.028859806750634747,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+10,73871,http://caseID.org/214148,214148,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+11,84436,http://eventID.org/1_206351,A_SUBMITTED | t=201202031924057660,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+12,84435,http://eventID.org/1_206348,A_SUBMITTED | t=201202031907084400,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+13,84434,http://eventID.org/1_206345,A_SUBMITTED | t=201202031858494820,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+14,84433,http://eventID.org/1_206342,A_SUBMITTED | t=201202031854506310,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+15,84432,http://eventID.org/1_206339,A_SUBMITTED | t=201202031840381350,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+16,84431,http://eventID.org/1_206336,A_SUBMITTED | t=201202031839172020,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+17,84429,http://eventID.org/1_206330,A_SUBMITTED | t=201202031724304090,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+18,84427,http://eventID.org/1_206324,A_SUBMITTED | t=201202031717110470,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+19,84437,http://eventID.org/1_206354,A_SUBMITTED | t=201202031951391300,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+20,72,11121.0,11121.0,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+21,61,11000.0,11000.0,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+22,78,11181.0,11181.0,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+23,174,15000,15000,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+24,59807,201203011544023520,201203011544023520,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139
+25,76,11179.0,11179.0,mean,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),activity,3,http://eventActivity.org/A_FINALIZED,5.499888896942139

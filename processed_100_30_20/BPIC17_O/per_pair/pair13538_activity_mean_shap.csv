@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,280758,http://eventActivity.org/Sent%20%28mail%20and%20online%29,Sent%20%28mail%20and%20online%29,mean,5.674707536256587,5.674707536256587,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+2,280757,http://eventActivity.org/Returned,Returned,mean,1.7022122171562573,1.7022122171562573,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+3,668459,http://eventOtherC.org/statechange,statechange,mean,1.3139757642406775,1.3139757642406775,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+4,571710,http://eventOtherC.org/OfferState_310516445,OfferState_310516445,mean,-1.1995905295139435,1.1995905295139435,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+5,280751,http://caseOtherC.org/True,True,mean,0.6901629991115931,0.6901629991115931,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+6,227857,57,57,mean,-0.48986116388016254,0.48986116388016254,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+7,280753,http://eventActivity.org/Cancelled,Cancelled,mean,0.369977662406706,0.369977662406706,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+8,2196,110,110,mean,0.2963869963666583,0.2963869963666583,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+9,204631,20161219191052632,20161219191052632,mean,0.1621776542181016,0.1621776542181016,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+10,280756,http://eventActivity.org/Refused,Refused,mean,0.0810385761779813,0.0810385761779813,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+11,235674,904,904,mean,0.06840380838740405,0.06840380838740405,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+12,234100,8300.0,8300.0,mean,0.048562410272642964,0.048562410272642964,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+13,256778,http://caseID.org/1845800814,1845800814,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+14,323798,http://eventID.org/2_1002493812,Created | t=20161025165534656,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+15,299783,http://eventID.org/1_1845800814,Create%20Offer | t=20161219191036022,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+16,323756,http://eventID.org/2_1000145087,Created | t=20161112133716786,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+17,323757,http://eventID.org/2_1000159595,Created | t=20161026170432074,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+18,323763,http://eventID.org/2_1000377420,Created | t=20161121082811441,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+19,323770,http://eventID.org/2_1000827448,Created | t=20161101104023495,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+20,323776,http://eventID.org/2_1001231228,Created | t=20161230135110144,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+21,323788,http://eventID.org/2_1002138655,Created | t=20161121153748689,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+22,323793,http://eventID.org/2_1002415609,Created | t=20161021141018468,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+23,323797,http://eventID.org/2_1002490876,Created | t=20161229193550897,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+24,474609,http://eventOtherC.org/Created,Created,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293
+25,323806,http://eventID.org/2_1002666352,Created | t=20161101191157508,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,8.78626823425293

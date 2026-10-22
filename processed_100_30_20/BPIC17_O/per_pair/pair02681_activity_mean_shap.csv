@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,280758,http://eventActivity.org/Sent%20%28mail%20and%20online%29,Sent%20%28mail%20and%20online%29,mean,5.924792442645325,5.924792442645325,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+2,280757,http://eventActivity.org/Returned,Returned,mean,1.6964132959127014,1.6964132959127014,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+3,668459,http://eventOtherC.org/statechange,statechange,mean,1.4815033751558726,1.4815033751558726,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+4,197153,20161205101248772,20161205101248772,mean,-0.6497653986372801,0.6497653986372801,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+5,280753,http://eventActivity.org/Cancelled,Cancelled,mean,0.5361394391062351,0.5361394391062351,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+6,218790,28,28,mean,-0.49953642266190684,0.49953642266190684,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+7,280751,http://caseOtherC.org/True,True,mean,0.4148523375166325,0.4148523375166325,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+8,600645,http://eventOtherC.org/OfferState_677879297,OfferState_677879297,mean,-0.3349268377991175,0.3349268377991175,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+9,236886,96,96,mean,-0.09368817381125005,0.09368817381125005,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+10,5407,126,126,mean,-0.09327313038915686,0.09327313038915686,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+11,222980,40,40,mean,0.08386711789415413,0.08386711789415413,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+12,280756,http://eventActivity.org/Refused,Refused,mean,0.08229318287349421,0.08229318287349421,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+13,4174,120,120,mean,0.05922731331911362,0.05922731331911362,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+14,4775,123,123,mean,-0.05367253233590534,0.05367253233590534,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+15,228630,60,60,mean,0.04017269836250472,0.04017269836250472,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+16,474609,http://eventOtherC.org/Created,Created,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+17,241525,http://caseID.org/1166624330,1166624330,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+18,8,100,100,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+19,225530,49,49,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+20,227595,56,56,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+21,6,10,10,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+22,221701,36,36,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+23,230355,67,67,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+24,4363,121,121,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402
+25,219573,3,3,mean,0.0,0.0,http://eventActivity.org/Returned (id=4),activity,4,http://eventActivity.org/Returned,9.091361045837402

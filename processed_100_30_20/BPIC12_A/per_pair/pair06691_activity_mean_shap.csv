@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73950,http://eventActivity.org/A_APPROVED,A_APPROVED,mean,2.5490271935935604,2.5490271935935604,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+2,73949,http://eventActivity.org/A_ACTIVATED,A_ACTIVATED,mean,2.320306999296476,2.320306999296476,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+3,73956,http://eventActivity.org/A_REGISTERED,A_REGISTERED,mean,1.748807277378176,1.748807277378176,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+4,60030,201203061115580220,201203061115580220,mean,-1.1172958139576392,1.1172958139576392,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+5,27,10629.0,10629.0,mean,-0.17195183166489958,0.17195183166489958,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+6,58,10982.0,10982.0,mean,-0.12830652929374614,0.12830652929374614,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+7,57,10972.0,10972.0,mean,-0.1161313284024648,0.1161313284024648,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+8,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+9,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+10,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+11,48,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+12,52,10932.0,10932.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+13,47,10912.0,10912.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+14,45,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+15,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+16,65,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+17,77,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+18,37,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+19,73,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+20,85,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+21,73953,http://eventActivity.org/A_FINALIZED,A_FINALIZED,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+22,80,112.0,112.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+23,73234,http://caseID.org/212196,212196,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+24,75,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988
+25,64,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),activity,5,http://eventActivity.org/A_APPROVED,4.542706489562988

@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,77,11259.0,11259.0,mean,1.9121835386898065,1.9121835386898065,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+2,92318,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,W_Valideren%20aanvraag_COMPLETE,mean,1.7500955186060723,1.7500955186060723,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+3,92317,http://eventActivity.org/W_Nabellen%20offertes_COMPLETE,W_Nabellen%20offertes_COMPLETE,mean,1.3161028145342812,1.3161028145342812,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+4,72931,201202221015231260,201202221015231260,mean,-0.4321594594700772,0.4321594594700772,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+5,164732,http://eventOtherC.org/COMPLETE,COMPLETE,mean,-0.12449928499497098,0.12449928499497098,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+6,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+7,68,11181.0,11181.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+8,72,11201.0,11201.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+9,36,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+10,38,10899.0,10899.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+11,57,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+12,65,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+13,24,10609.0,10609.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+14,58,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+15,62,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+16,63,11121.0,11121.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+17,43,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+18,34,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+19,40,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+20,64,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+21,73,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+22,51,10972.0,10972.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+23,91187,http://caseID.org/209577,209577,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+24,52,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234
+25,59,11019.0,11019.0,mean,0.0,0.0,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE (id=2),activity,2,http://eventActivity.org/W_Valideren%20aanvraag_COMPLETE,5.954463958740234

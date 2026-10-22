@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,280750,http://caseOtherC.org/False,False,mean,3.124469730464032,3.124469730464032,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+2,0,0,0,mean,2.507937818482139,2.507937818482139,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+3,280758,http://eventActivity.org/Sent%20%28mail%20and%20online%29,Sent%20%28mail%20and%20online%29,mean,1.1458975614284106,1.1458975614284106,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+4,234315,84,84,mean,-0.5229283850696087,0.5229283850696087,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+5,595265,http://eventOtherC.org/OfferState_6096731,OfferState_6096731,mean,-0.5065494139928637,0.5065494139928637,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+6,280757,http://eventActivity.org/Returned,Returned,mean,0.49852064959745507,0.49852064959745507,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+7,222980,40,40,mean,-0.46295587029388025,0.46295587029388025,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+8,668459,http://eventOtherC.org/statechange,statechange,mean,0.3392685908319872,0.3392685908319872,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+9,183070,20161109113842580,20161109113842580,mean,-0.29893083680330196,0.29893083680330196,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+10,280751,http://caseOtherC.org/True,True,mean,-0.2459280209801426,0.2459280209801426,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+11,280753,http://eventActivity.org/Cancelled,Cancelled,mean,0.10989474479435446,0.10989474479435446,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+12,217208,24,24,mean,0.0748312992597691,0.0748312992597691,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+13,1981,109,109,mean,-0.07333288684396067,0.07333288684396067,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+14,474609,http://eventOtherC.org/Created,Created,mean,0.0705260154472898,0.0705260154472898,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+15,241298,http://caseID.org/1156215531,1156215531,mean,-0.060665432487204185,0.060665432487204185,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+16,5407,126,126,mean,0.05818787665283192,0.05818787665283192,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+17,280755,http://eventActivity.org/Created,Created,mean,-0.03743368277780385,0.03743368277780385,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+18,218415,27,27,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+19,226518,52,52,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+20,4363,121,121,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+21,225872,5,5,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+22,4775,123,123,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+23,3962,119,119,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+24,3798,118,118,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174
+25,1553,107,107,mean,0.0,0.0,http://eventActivity.org/Cancelled (id=2),activity,2,http://eventActivity.org/Cancelled,6.644474506378174

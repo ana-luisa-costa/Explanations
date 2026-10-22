@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,92315,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,W_Completeren%20aanvraag_COMPLETE,mean,2.629623477738989,2.629623477738989,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+2,92317,http://eventActivity.org/W_Nabellen%20offertes_COMPLETE,W_Nabellen%20offertes_COMPLETE,mean,0.5161555379594085,0.5161555379594085,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+3,40,10909.0,10909.0,mean,0.46791104096124947,0.46791104096124947,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+4,67119,201202131253052570,201202131253052570,mean,-0.38888882051640855,0.38888882051640855,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+5,164732,http://eventOtherC.org/COMPLETE,COMPLETE,mean,-0.334859543790943,0.334859543790943,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+6,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+7,68,11181.0,11181.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+8,72,11201.0,11201.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+9,36,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+10,38,10899.0,10899.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+11,57,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+12,48,10933.0,10933.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+13,65,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+14,24,10609.0,10609.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+15,52,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+16,63,11121.0,11121.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+17,62,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+18,43,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+19,34,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+20,64,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+21,92313,http://eventActivity.org/W_Afhandelen%20leads_COMPLETE,W_Afhandelen%20leads_COMPLETE,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+22,73,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+23,90857,http://caseID.org/208139,208139,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+24,58,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264
+25,59,11019.0,11019.0,mean,0.0,0.0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE (id=0),activity,0,http://eventActivity.org/W_Completeren%20aanvraag_COMPLETE,5.399089336395264

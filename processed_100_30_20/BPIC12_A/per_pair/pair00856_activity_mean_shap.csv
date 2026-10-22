@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73950,http://eventActivity.org/A_APPROVED,A_APPROVED,mean,3.1815273339848185,3.1815273339848185,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+2,73949,http://eventActivity.org/A_ACTIVATED,A_ACTIVATED,mean,2.533578056698722,2.533578056698722,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+3,73956,http://eventActivity.org/A_REGISTERED,A_REGISTERED,mean,1.92369949268744,1.92369949268744,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+4,52844,201202151545464920,201202151545464920,mean,-1.3077755501343875,1.3077755501343875,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+5,37,10861.0,10861.0,mean,-0.36593749774149503,0.36593749774149503,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+6,27,10629.0,10629.0,mean,-0.2731417063342141,0.2731417063342141,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+7,73,11122.0,11122.0,mean,0.17549272253183829,0.17549272253183829,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+8,11,10138.0,10138.0,mean,-0.17035162011018556,0.17035162011018556,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+9,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.1569958678504085,0.1569958678504085,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+10,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+11,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+12,48,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+13,52,10932.0,10932.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+14,47,10912.0,10912.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+15,45,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+16,65,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+17,75,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+18,58,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+19,77,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+20,85,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+21,73953,http://eventActivity.org/A_FINALIZED,A_FINALIZED,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+22,80,112.0,112.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+23,71548,http://caseID.org/206999,206999,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+24,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107
+25,64,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/A_REGISTERED (id=4),activity,6,http://eventActivity.org/A_ACTIVATED,5.720950603485107

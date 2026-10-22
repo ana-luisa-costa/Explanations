@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,280757,http://eventActivity.org/Returned,Returned,mean,4.925743587058264,4.925743587058264,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+2,0,0,0,mean,-3.546590117360758,3.546590117360758,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+3,520831,http://eventOtherC.org/OfferState_1589149302,OfferState_1589149302,mean,0.7570062328217687,0.7570062328217687,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+4,280751,http://caseOtherC.org/True,True,mean,0.5951655458416618,0.5951655458416618,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+5,3962,119,119,mean,0.4449835626875674,0.4449835626875674,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+6,668459,http://eventOtherC.org/statechange,statechange,mean,0.33385037441070753,0.33385037441070753,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+7,19634,20000.0,20000.0,mean,0.23444888739277703,0.23444888739277703,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+8,280752,http://eventActivity.org/Accepted,Accepted,mean,0.22678289703492666,0.22678289703492666,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+9,212065,20170109111848326,20170109111848326,mean,-0.1406025645078512,0.1406025645078512,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+10,1,0.0,0.0,mean,0.062195730801302994,0.062195730801302994,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+11,232920,78,78,mean,0.05679140186305519,0.05679140186305519,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+12,225530,49,49,mean,0.048764207493569835,0.048764207493569835,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+13,233413,80,80,mean,0.03225576492098479,0.03225576492098479,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+14,4174,120,120,mean,0.021733345120064335,0.021733345120064335,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+15,8,100,100,mean,0.01698756478633913,0.01698756478633913,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+16,219573,3,3,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+17,270616,http://caseID.org/538420275,538420275,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+18,227595,56,56,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+19,5407,126,126,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+20,6,10,10,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+21,221701,36,36,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+22,474609,http://eventOtherC.org/Created,Created,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+23,230355,67,67,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+24,228893,61,61,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236
+25,228630,60,60,mean,0.0,0.0,http://eventActivity.org/Accepted (id=5),activity,5,http://eventActivity.org/Accepted,6.473347187042236

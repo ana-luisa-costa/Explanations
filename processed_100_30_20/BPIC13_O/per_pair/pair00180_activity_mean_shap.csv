@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,5682,http://eventOtherC.org/A2_2,A2_2,mean,-0.8815056030906705,0.8815056030906705,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+2,3323,http://caseOtherC.org/us,us,mean,0.7864239943218404,0.7864239943218404,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+3,5754,http://eventOtherC.org/E_10,E_10,mean,-0.36434222076797995,0.36434222076797995,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+4,3326,http://eventActivity.org/Queued,Queued,mean,-0.2140380093428533,0.2140380093428533,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+5,5878,http://eventOtherC.org/Org%20line%20A2,Org%20line%20A2,mean,0.19677599041670565,0.19677599041670565,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+6,2293,201206131835250000,201206131835250000,mean,-0.19666599222022713,0.19666599222022713,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+7,3324,http://eventActivity.org/Accepted,Accepted,mean,0.1431730551718116,0.1431730551718116,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+8,5846,http://eventOtherC.org/Lotta,Lotta,mean,-0.10386159784979915,0.10386159784979915,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+9,5885,http://eventOtherC.org/Org%20line%20G4,Org%20line%20G4,mean,-0.10124787952613358,0.10124787952613358,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+10,5793,http://eventOtherC.org/INDIA,INDIA,mean,0.09582809547901756,0.09582809547901756,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+11,5879,http://eventOtherC.org/Org%20line%20B,Org%20line%20B,mean,-0.08993860794851817,0.08993860794851817,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+12,3310,http://caseOtherC.org/Medium,Medium,mean,-0.06912675964838766,0.06912675964838766,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+13,5796,http://eventOtherC.org/In%20Progress,In%20Progress,mean,0.055076465634057443,0.055076465634057443,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+14,5946,http://eventOtherC.org/Sweden,Sweden,mean,0.04972644339709642,0.04972644339709642,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+15,5713,http://eventOtherC.org/Awaiting%20Assignment,Awaiting%20Assignment,mean,0.04649446887760305,0.04649446887760305,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+16,5716,http://eventOtherC.org/Belgium,Belgium,mean,0.03942570892849853,0.03942570892849853,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+17,5969,http://eventOtherC.org/Wait,Wait,mean,0.03729006746668163,0.03729006746668163,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+18,5954,http://eventOtherC.org/USA,USA,mean,-0.0247739923847609,0.0247739923847609,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+19,4017,http://eventID.org/1_1750209134,Accepted | t=201205250959410000,mean,-0.014870241656242067,0.014870241656242067,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+20,3285,http://caseID.org/1758494760,1758494760,mean,0.008124027751195856,0.008124027751195856,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+21,5705,http://eventOtherC.org/Assigned,Assigned,mean,-0.007575228751428478,0.007575228751428478,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+22,5889,http://eventOtherC.org/POLAND,POLAND,mean,0.0,0.0,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+23,5880,http://eventOtherC.org/Org%20line%20C,Org%20line%20C,mean,0.0,0.0,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+24,3340,http://eventID.org/11_1753504966,Accepted | t=201206131234310000,mean,0.0,0.0,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496
+25,4018,http://eventID.org/1_1750209298,Accepted | t=201205251005540000,mean,0.0,0.0,http://eventActivity.org/Accepted (id=1),activity,2,http://eventActivity.org/Completed,0.36792922019958496

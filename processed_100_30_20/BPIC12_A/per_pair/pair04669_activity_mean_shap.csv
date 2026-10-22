@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73954,http://eventActivity.org/A_PARTLYSUBMITTED,A_PARTLYSUBMITTED,mean,6.234826739250425,6.234826739250425,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+2,73957,http://eventActivity.org/A_SUBMITTED,A_SUBMITTED,mean,1.2320676150968533,1.2320676150968533,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+3,53905,201202171649157540,201202171649157540,mean,-0.7392403323181792,0.7392403323181792,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+4,80,112.0,112.0,mean,0.4880479546786704,0.4880479546786704,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+5,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,-0.04217646561961564,0.04217646561961564,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+6,27,10629.0,10629.0,mean,-0.03052988728168149,0.03052988728168149,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+7,52,10932.0,10932.0,mean,0.024294902161129624,0.024294902161129624,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+8,57,10972.0,10972.0,mean,0.009095115130420028,0.009095115130420028,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+9,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+10,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+11,48,10913.0,10913.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+12,47,10912.0,10912.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+13,45,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+14,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+15,58,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+16,75,11169.0,11169.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+17,77,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+18,65,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+19,37,10861.0,10861.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+20,73,11122.0,11122.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+21,85,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+22,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+23,72657,http://caseID.org/210437,210437,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+24,26,10609.0,10609.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742
+25,64,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/A_PARTLYSUBMITTED (id=0),activity,0,http://eventActivity.org/A_PARTLYSUBMITTED,11.091154098510742

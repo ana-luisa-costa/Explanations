@@ -1,0 +1,26 @@
+rank,entity_id,uri,label,shap_baseline,shap_value,abs_shap,dst_activity,target_kind,pred_class_id,pred_class_label,pred_score
+1,73955,http://eventActivity.org/A_PREACCEPTED,A_PREACCEPTED,mean,2.6906152674918005,2.6906152674918005,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+2,73948,http://eventActivity.org/A_ACCEPTED,A_ACCEPTED,mean,1.2389332239973339,1.2389332239973339,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+3,52841,201202151537338760,201202151537338760,mean,0.6032766193930786,0.6032766193930786,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+4,73951,http://eventActivity.org/A_CANCELLED,A_CANCELLED,mean,0.12987234821085233,0.12987234821085233,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+5,75,11169.0,11169.0,mean,0.02098857943519583,0.02098857943519583,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+6,72435,http://caseID.org/209745,209745,mean,0.011137003680771227,0.011137003680771227,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+7,37,10861.0,10861.0,mean,0.008185549919721615,0.008185549919721615,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+8,77,11180.0,11180.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+9,41,10881.0,10881.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+10,70,11119.0,11119.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+11,27,10629.0,10629.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+12,52,10932.0,10932.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+13,45,10909.0,10909.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+14,84,11202.0,11202.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+15,26,10609.0,10609.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+16,134807,http://eventOtherC.org/COMPLETE,COMPLETE,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+17,64,11003.0,11003.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+18,85,11203.0,11203.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+19,57,10972.0,10972.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+20,11,10138.0,10138.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+21,73954,http://eventActivity.org/A_PARTLYSUBMITTED,A_PARTLYSUBMITTED,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+22,65,11009.0,11009.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+23,80,112.0,112.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+24,58,10982.0,10982.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
+25,66,11019.0,11019.0,mean,0.0,0.0,http://eventActivity.org/A_CANCELLED (id=8),activity,2,http://eventActivity.org/A_ACCEPTED,4.999641418457031
