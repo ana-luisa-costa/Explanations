@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC12_A/BPIC12_Subprocess_Application.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_A/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_A/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_A/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC12_A",
+  "num_test_pairs": 9102,
+  "explained_pair_indices": [
+    781,
+    810,
+    856,
+    1165,
+    1831,
+    3934,
+    3987,
+    4099,
+    4669,
+    4787,
+    5946,
+    6339,
+    6526,
+    6691,
+    6923,
+    7030,
+    7151,
+    7642,
+    7802,
+    8872
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T13:51:15.910081+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 781,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 97712,
+      "dst_id": 110799,
+      "csv": "pair00781_activity_gradient.csv",
+      "pred_class_id": 7,
+      "pred_class_label": "http://eventActivity.org/A_DECLINED"
+    },
+    {
+      "pair_idx": 810,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 97718,
+      "dst_id": 110805,
+      "csv": "pair00810_activity_gradient.csv",
+      "pred_class_id": 7,
+      "pred_class_label": "http://eventActivity.org/A_DECLINED"
+    },
+    {
+      "pair_idx": 856,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 132227,
+      "dst_id": 134473,
+      "csv": "pair00856_activity_gradient.csv",
+      "pred_class_id": 6,
+      "pred_class_label": "http://eventActivity.org/A_ACTIVATED"
+    },
+    {
+      "pair_idx": 1165,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 84730,
+      "dst_id": 97817,
+      "csv": "pair01165_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/A_PARTLYSUBMITTED"
+    },
+    {
+      "pair_idx": 1831,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 98008,
+      "dst_id": 111095,
+      "csv": "pair01831_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/A_PREACCEPTED"
+    },
+    {
+      "pair_idx": 3934,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 111706,
+      "dst_id": 119703,
+      "csv": "pair03934_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/A_ACCEPTED"
+    },
+    {
+      "pair_idx": 3987,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 111720,
+      "dst_id": 119715,
+      "csv": "pair03987_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/A_ACCEPTED"
+    },
+    {
+      "pair_idx": 4099,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 85579,
+      "dst_id": 98666,
+      "csv": "pair04099_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/A_PARTLYSUBMITTED"
+    },
+    {
+      "pair_idx": 4669,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 85754,
+      "dst_id": 98841,
+      "csv": "pair04669_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/A_PARTLYSUBMITTED"
+    },
+    {
+      "pair_idx": 4787,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 111968,
+      "dst_id": 119829,
+      "csv": "pair04787_activity_gradient.csv",
+      "pred_class_id": 8,
+      "pred_class_label": "http://eventActivity.org/A_CANCELLED"
+    },
+    {
+      "pair_idx": 5946,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 86110,
+      "dst_id": 99197,
+      "csv": "pair05946_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/A_PARTLYSUBMITTED"
+    },
+    {
+      "pair_idx": 6339,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 99319,
+      "dst_id": 112406,
+      "csv": "pair06339_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/A_PREACCEPTED"
+    },
+    {
+      "pair_idx": 6526,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 99370,
+      "dst_id": 112457,
+      "csv": "pair06526_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/A_PREACCEPTED"
+    },
+    {
+      "pair_idx": 6691,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 130180,
+      "dst_id": 132471,
+      "csv": "pair06691_activity_gradient.csv",
+      "pred_class_id": 5,
+      "pred_class_label": "http://eventActivity.org/A_APPROVED"
+    },
+    {
+      "pair_idx": 6923,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 120168,
+      "dst_id": 125360,
+      "csv": "pair06923_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/A_FINALIZED"
+    },
+    {
+      "pair_idx": 7030,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 120184,
+      "dst_id": 125373,
+      "csv": "pair07030_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/A_FINALIZED"
+    },
+    {
+      "pair_idx": 7151,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 120203,
+      "dst_id": 125388,
+      "csv": "pair07151_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/A_FINALIZED"
+    },
+    {
+      "pair_idx": 7642,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 86614,
+      "dst_id": 99701,
+      "csv": "pair07642_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/A_PARTLYSUBMITTED"
+    },
+    {
+      "pair_idx": 7802,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 125466,
+      "dst_id": 130250,
+      "csv": "pair07802_activity_gradient.csv",
+      "pred_class_id": 8,
+      "pred_class_label": "http://eventActivity.org/A_CANCELLED"
+    },
+    {
+      "pair_idx": 8872,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 120484,
+      "dst_id": 125601,
+      "csv": "pair08872_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/A_FINALIZED"
+    }
+  ]
+}

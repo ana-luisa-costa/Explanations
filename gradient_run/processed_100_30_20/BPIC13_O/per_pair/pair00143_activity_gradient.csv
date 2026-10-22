@@ -1,0 +1,31 @@
+rank,entity_id,uri,label,gradXinput_signed,gradXinput_abs,dst_activity,pred_class_id,pred_class_label
+1,5708,http://eventOtherC.org/Aurelie,Aurelie,0.021454304456710815,3.510114908218384,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+2,5728,http://eventOtherC.org/C_5,C_5,0.016282815486192703,2.3270785808563232,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+3,2217,201206111504180000,201206111504180000,0.00809624046087265,2.1304540634155273,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+4,3322,http://caseOtherC.org/se,se,-0.415198415517807,2.0639288425445557,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+5,3310,http://caseOtherC.org/Medium,Medium,0.38987529277801514,1.8619532585144043,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+6,5772,http://eventOtherC.org/France,France,-0.16388632357120514,1.4850876331329346,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+7,5880,http://eventOtherC.org/Org%20line%20C,Org%20line%20C,0.19531303644180298,1.4713351726531982,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+8,2422,PROD473,PROD473,0.02157875895500183,1.3414058685302734,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+9,5796,http://eventOtherC.org/In%20Progress,In%20Progress,0.03068067878484726,1.3238551616668701,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+10,3324,http://eventActivity.org/Accepted,Accepted,-0.14660418033599854,1.1009348630905151,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+11,5793,http://eventOtherC.org/INDIA,INDIA,-0.044763460755348206,0.6977124214172363,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+12,5946,http://eventOtherC.org/Sweden,Sweden,0.08768423646688461,0.6219390630722046,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+13,3326,http://eventActivity.org/Queued,Queued,0.07004409283399582,0.5633873343467712,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+14,3325,http://eventActivity.org/Completed,Completed,0.009369384497404099,0.5162233710289001,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+15,5885,http://eventOtherC.org/Org%20line%20G4,Org%20line%20G4,0.01911662518978119,0.39145225286483765,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+16,5878,http://eventOtherC.org/Org%20line%20A2,Org%20line%20A2,-0.006726769730448723,0.36187365651130676,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+17,5705,http://eventOtherC.org/Assigned,Assigned,-0.02768959105014801,0.3547630310058594,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+18,5969,http://eventOtherC.org/Wait,Wait,-0.012657119892537594,0.3511572480201721,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+19,5713,http://eventOtherC.org/Awaiting%20Assignment,Awaiting%20Assignment,-0.06639188528060913,0.34707045555114746,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+20,5879,http://eventOtherC.org/Org%20line%20B,Org%20line%20B,-0.023988693952560425,0.3327837884426117,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+21,5741,http://eventOtherC.org/Closed,Closed,0.05605771765112877,0.2930772304534912,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+22,3255,http://caseID.org/1757113161,1757113161,0.005964342039078474,0.22999054193496704,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+23,5882,http://eventOtherC.org/Org%20line%20F,Org%20line%20F,-0.030971236526966095,0.2065417468547821,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+24,5883,http://eventOtherC.org/Org%20line%20G1,Org%20line%20G1,0.0030105607584118843,0.1866413950920105,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+25,5716,http://eventOtherC.org/Belgium,Belgium,-0.004139208234846592,0.12220846861600876,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+26,5889,http://eventOtherC.org/POLAND,POLAND,-0.004179816693067551,0.050541236996650696,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+27,5954,http://eventOtherC.org/USA,USA,-0.0021176328882575035,0.0452556349337101,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+28,5721,http://eventOtherC.org/Brazil,Brazil,0.001244332641363144,0.03300543874502182,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+29,5529,http://eventID.org/6_1675150191,Accepted | t=201204111410110000,0.0,0.0,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued
+30,5700,http://eventOtherC.org/Anna,Anna,0.0,0.0,http://eventActivity.org/Queued (id=0),0,http://eventActivity.org/Queued

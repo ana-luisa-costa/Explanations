@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC20_R/BPIC20_Request.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_R/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_R/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_R/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC20_R",
+  "num_test_pairs": 6113,
+  "explained_pair_indices": [
+    524,
+    543,
+    574,
+    782,
+    1229,
+    2640,
+    2675,
+    2753,
+    3135,
+    3213,
+    3990,
+    4254,
+    4382,
+    4492,
+    4648,
+    4717,
+    4802,
+    5132,
+    5236,
+    5956
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T14:05:49.838322+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 524,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 62035,
+      "dst_id": 67816,
+      "csv": "pair00524_activity_gradient.csv",
+      "pred_class_id": 5,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 543,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 41857,
+      "dst_id": 48693,
+      "csv": "pair00543_activity_gradient.csv",
+      "pred_class_id": 11,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20REJECTED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 574,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 48700,
+      "dst_id": 55507,
+      "csv": "pair00574_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20FINAL_APPROVED%20by%20SUPERVISOR"
+    },
+    {
+      "pair_idx": 782,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 41909,
+      "dst_id": 48745,
+      "csv": "pair00782_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 1229,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 62234,
+      "dst_id": 68014,
+      "csv": "pair01229_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20Payment"
+    },
+    {
+      "pair_idx": 2640,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 68776,
+      "dst_id": 71889,
+      "csv": "pair02640_activity_gradient.csv",
+      "pred_class_id": 14,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20REJECTED%20by%20BUDGET%20OWNER"
+    },
+    {
+      "pair_idx": 2675,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 56545,
+      "dst_id": 63023,
+      "csv": "pair02675_activity_gradient.csv",
+      "pred_class_id": 6,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20REJECTED%20by%20MISSING"
+    },
+    {
+      "pair_idx": 2753,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 42929,
+      "dst_id": 49756,
+      "csv": "pair02753_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 3135,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 49860,
+      "dst_id": 56667,
+      "csv": "pair03135_activity_gradient.csv",
+      "pred_class_id": 10,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20BUDGET%20OWNER"
+    },
+    {
+      "pair_idx": 3213,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 68966,
+      "dst_id": 71962,
+      "csv": "pair03213_activity_gradient.csv",
+      "pred_class_id": 5,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 3990,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 63735,
+      "dst_id": 69507,
+      "csv": "pair03990_activity_gradient.csv",
+      "pred_class_id": 5,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 4254,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 72235,
+      "dst_id": 72968,
+      "csv": "pair04254_activity_gradient.csv",
+      "pred_class_id": 6,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20REJECTED%20by%20MISSING"
+    },
+    {
+      "pair_idx": 4382,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 63857,
+      "dst_id": 69629,
+      "csv": "pair04382_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20Payment"
+    },
+    {
+      "pair_idx": 4492,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 69654,
+      "dst_id": 72251,
+      "csv": "pair04492_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 4648,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 43858,
+      "dst_id": 50678,
+      "csv": "pair04648_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 4717,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 43875,
+      "dst_id": 50694,
+      "csv": "pair04717_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 4802,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 43895,
+      "dst_id": 50714,
+      "csv": "pair04802_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 5132,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 57604,
+      "dst_id": 64032,
+      "csv": "pair05132_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20Payment"
+    },
+    {
+      "pair_idx": 5236,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 44007,
+      "dst_id": 50824,
+      "csv": "pair05236_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 5956,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 57797,
+      "dst_id": 64210,
+      "csv": "pair05956_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20Payment"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC20_P/BPIC20_P.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_P/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_P/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC20_P/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC20_P",
+  "num_test_pairs": 3377,
+  "explained_pair_indices": [
+    289,
+    299,
+    317,
+    432,
+    678,
+    1455,
+    1475,
+    1520,
+    1731,
+    1773,
+    2199,
+    2346,
+    2419,
+    2479,
+    2565,
+    2599,
+    2651,
+    2834,
+    2887,
+    3286
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T14:05:24.877625+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 289,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 35756,
+      "dst_id": 39333,
+      "csv": "pair00289_activity_gradient.csv",
+      "pred_class_id": 10,
+      "pred_class_label": "http://eventActivity.org/Permit%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 299,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 24742,
+      "dst_id": 28454,
+      "csv": "pair00299_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20SUBMITTED%20by%20EMPLOYEE"
+    },
+    {
+      "pair_idx": 317,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 35786,
+      "dst_id": 39363,
+      "csv": "pair00317_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20SUBMITTED%20by%20EMPLOYEE"
+    },
+    {
+      "pair_idx": 432,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 32209,
+      "dst_id": 35858,
+      "csv": "pair00432_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Permit%20APPROVED%20by%20PRE_APPROVER"
+    },
+    {
+      "pair_idx": 678,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 25018,
+      "dst_id": 28727,
+      "csv": "pair00678_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20SUBMITTED%20by%20EMPLOYEE"
+    },
+    {
+      "pair_idx": 1455,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 29111,
+      "dst_id": 32763,
+      "csv": "pair01455_activity_gradient.csv",
+      "pred_class_id": 9,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20BUDGET%20OWNER"
+    },
+    {
+      "pair_idx": 1475,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 36403,
+      "dst_id": 39977,
+      "csv": "pair01475_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/Permit%20FINAL_APPROVED%20by%20SUPERVISOR"
+    },
+    {
+      "pair_idx": 1520,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 29127,
+      "dst_id": 32779,
+      "csv": "pair01520_activity_gradient.csv",
+      "pred_class_id": 10,
+      "pred_class_label": "http://eventActivity.org/Permit%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 1731,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 25476,
+      "dst_id": 29176,
+      "csv": "pair01731_activity_gradient.csv",
+      "pred_class_id": 10,
+      "pred_class_label": "http://eventActivity.org/Permit%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 1773,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 36471,
+      "dst_id": 40045,
+      "csv": "pair01773_activity_gradient.csv",
+      "pred_class_id": 6,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20FINAL_APPROVED%20by%20SUPERVISOR"
+    },
+    {
+      "pair_idx": 2199,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 32940,
+      "dst_id": 36574,
+      "csv": "pair02199_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 2346,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 29320,
+      "dst_id": 32972,
+      "csv": "pair02346_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20SUBMITTED%20by%20EMPLOYEE"
+    },
+    {
+      "pair_idx": 2419,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 42311,
+      "dst_id": 42599,
+      "csv": "pair02419_activity_gradient.csv",
+      "pred_class_id": 10,
+      "pred_class_label": "http://eventActivity.org/Permit%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 2479,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 29370,
+      "dst_id": 33022,
+      "csv": "pair02479_activity_gradient.csv",
+      "pred_class_id": 8,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20APPROVED%20by%20ADMINISTRATION"
+    },
+    {
+      "pair_idx": 2565,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 33041,
+      "dst_id": 36674,
+      "csv": "pair02565_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 2599,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 36706,
+      "dst_id": 40278,
+      "csv": "pair02599_activity_gradient.csv",
+      "pred_class_id": 13,
+      "pred_class_label": "http://eventActivity.org/Permit%20FINAL_APPROVED%20by%20DIRECTOR"
+    },
+    {
+      "pair_idx": 2651,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 33205,
+      "dst_id": 36838,
+      "csv": "pair02651_activity_gradient.csv",
+      "pred_class_id": 20,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20FINAL_APPROVED%20by%20DIRECTOR"
+    },
+    {
+      "pair_idx": 2834,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 35467,
+      "dst_id": 39048,
+      "csv": "pair02834_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Request%20For%20Payment%20SUBMITTED%20by%20EMPLOYEE"
+    },
+    {
+      "pair_idx": 2887,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 28169,
+      "dst_id": 31827,
+      "csv": "pair02887_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    },
+    {
+      "pair_idx": 3286,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 28354,
+      "dst_id": 32009,
+      "csv": "pair03286_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Payment%20Handled"
+    }
+  ]
+}

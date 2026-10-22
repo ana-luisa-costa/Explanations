@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC17_O/BPIC17_Offer.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC17_O/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC17_O/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC17_O/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC17_O",
+  "num_test_pairs": 30060,
+  "explained_pair_indices": [
+    2582,
+    2681,
+    2830,
+    3850,
+    6053,
+    13009,
+    13185,
+    13538,
+    15426,
+    15821,
+    19665,
+    20954,
+    21563,
+    22111,
+    22875,
+    23251,
+    23625,
+    25241,
+    25797,
+    29319
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T14:05:04.983699+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 2582,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 370293,
+      "dst_id": 413176,
+      "csv": "pair02582_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Cancelled"
+    },
+    {
+      "pair_idx": 2681,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 370520,
+      "dst_id": 413391,
+      "csv": "pair02681_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Returned"
+    },
+    {
+      "pair_idx": 2830,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 284739,
+      "dst_id": 327734,
+      "csv": "pair02830_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Created"
+    },
+    {
+      "pair_idx": 3850,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 329276,
+      "dst_id": 372271,
+      "csv": "pair03850_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 6053,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 289430,
+      "dst_id": 332425,
+      "csv": "pair06053_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Created"
+    },
+    {
+      "pair_idx": 13009,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 342099,
+      "dst_id": 385094,
+      "csv": "pair13009_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 13185,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 385315,
+      "dst_id": 427706,
+      "csv": "pair13185_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Returned"
+    },
+    {
+      "pair_idx": 13538,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 385773,
+      "dst_id": 428152,
+      "csv": "pair13538_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Returned"
+    },
+    {
+      "pair_idx": 15426,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 302576,
+      "dst_id": 345571,
+      "csv": "pair15426_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Created"
+    },
+    {
+      "pair_idx": 15821,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 303188,
+      "dst_id": 346183,
+      "csv": "pair15821_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Created"
+    },
+    {
+      "pair_idx": 19665,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 351958,
+      "dst_id": 394953,
+      "csv": "pair19665_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 20954,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 353851,
+      "dst_id": 396846,
+      "csv": "pair20954_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 21563,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 397722,
+      "dst_id": 439730,
+      "csv": "pair21563_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/Returned"
+    },
+    {
+      "pair_idx": 22111,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 398512,
+      "dst_id": 440501,
+      "csv": "pair22111_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Cancelled"
+    },
+    {
+      "pair_idx": 22875,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 441555,
+      "dst_id": 469159,
+      "csv": "pair22875_activity_gradient.csv",
+      "pred_class_id": 5,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 23251,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 357155,
+      "dst_id": 400150,
+      "csv": "pair23251_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 23625,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 357668,
+      "dst_id": 400663,
+      "csv": "pair23625_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 25241,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 359945,
+      "dst_id": 402940,
+      "csv": "pair25241_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 25797,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 360741,
+      "dst_id": 403736,
+      "csv": "pair25797_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Sent%20%28mail%20and%20online%29"
+    },
+    {
+      "pair_idx": 29319,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 408746,
+      "dst_id": 450378,
+      "csv": "pair29319_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Cancelled"
+    }
+  ]
+}

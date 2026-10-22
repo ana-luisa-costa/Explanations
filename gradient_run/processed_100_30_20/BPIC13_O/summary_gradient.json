@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC13_O/BPIC13_OpenProblems.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC13_O/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC13_O/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC13_O/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC13_O",
+  "num_test_pairs": 194,
+  "explained_pair_indices": [
+    15,
+    17,
+    24,
+    36,
+    77,
+    78,
+    87,
+    97,
+    98,
+    115,
+    126,
+    135,
+    136,
+    137,
+    143,
+    149,
+    154,
+    162,
+    180,
+    181
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T13:55:08.263557+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 15,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4023,
+      "dst_id": 4749,
+      "csv": "pair00015_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Completed"
+    },
+    {
+      "pair_idx": 17,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4750,
+      "dst_id": 5135,
+      "csv": "pair00017_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 24,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4751,
+      "dst_id": 5136,
+      "csv": "pair00024_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 36,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4039,
+      "dst_id": 4757,
+      "csv": "pair00036_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Completed"
+    },
+    {
+      "pair_idx": 77,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4075,
+      "dst_id": 4780,
+      "csv": "pair00077_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 78,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4076,
+      "dst_id": 4781,
+      "csv": "pair00078_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 87,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4784,
+      "dst_id": 5148,
+      "csv": "pair00087_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 97,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4090,
+      "dst_id": 4790,
+      "csv": "pair00097_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 98,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4790,
+      "dst_id": 5151,
+      "csv": "pair00098_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 115,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4105,
+      "dst_id": 4799,
+      "csv": "pair00115_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 126,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4116,
+      "dst_id": 4805,
+      "csv": "pair00126_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 135,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4809,
+      "dst_id": 5161,
+      "csv": "pair00135_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Completed"
+    },
+    {
+      "pair_idx": 136,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 5161,
+      "dst_id": 5370,
+      "csv": "pair00136_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 137,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4123,
+      "dst_id": 4810,
+      "csv": "pair00137_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Completed"
+    },
+    {
+      "pair_idx": 143,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4129,
+      "dst_id": 4814,
+      "csv": "pair00143_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 149,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4816,
+      "dst_id": 5165,
+      "csv": "pair00149_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/Accepted"
+    },
+    {
+      "pair_idx": 154,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4135,
+      "dst_id": 4819,
+      "csv": "pair00154_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 162,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4143,
+      "dst_id": 4824,
+      "csv": "pair00162_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    },
+    {
+      "pair_idx": 180,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 5173,
+      "dst_id": 5375,
+      "csv": "pair00180_activity_gradient.csv",
+      "pred_class_id": 2,
+      "pred_class_label": "http://eventActivity.org/Completed"
+    },
+    {
+      "pair_idx": 181,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 4162,
+      "dst_id": 4834,
+      "csv": "pair00181_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/Queued"
+    }
+  ]
+}

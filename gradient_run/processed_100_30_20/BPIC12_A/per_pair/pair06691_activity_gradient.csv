@@ -1,0 +1,31 @@
+rank,entity_id,uri,label,gradXinput_signed,gradXinput_abs,dst_activity,pred_class_id,pred_class_label
+1,60030,201203061115580220,201203061115580220,0.00019241496920585632,3.9496166706085205,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+2,56556,201202231623419320,201202231623419320,-0.02633914351463318,2.6994242668151855,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+3,73949,http://eventActivity.org/A_ACTIVATED,A_ACTIVATED,-0.19969314336776733,2.6662163734436035,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+4,60676,50000,50000,0.026864737272262573,2.185110569000244,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+5,73950,http://eventActivity.org/A_APPROVED,A_APPROVED,0.4352184534072876,1.672515869140625,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+6,73956,http://eventActivity.org/A_REGISTERED,A_REGISTERED,-0.091067835688591,1.6473647356033325,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+7,57,10972.0,10972.0,-0.06992179155349731,1.529392957687378,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+8,134807,http://eventOtherC.org/COMPLETE,COMPLETE,-0.11679805815219879,0.8901172876358032,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+9,27,10629.0,10629.0,0.0728762224316597,0.7964795231819153,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+10,73234,http://caseID.org/212196,212196,0.0025795255787670612,0.1542890965938568,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+11,37,10861.0,10861.0,-0.0027358513325452805,0.01909262128174305,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+12,79,11189.0,11189.0,-0.0017359043704345822,0.01886075921356678,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+13,46,10910.0,10910.0,-9.599048644304276e-05,0.018362777307629585,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+14,58,10982.0,10982.0,-0.0010327945929020643,0.01812843419611454,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+15,80,112.0,112.0,-0.0017244123155251145,0.017933696508407593,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+16,73,11122.0,11122.0,-0.0018322761170566082,0.017756137996912003,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+17,42,10889.0,10889.0,-0.0027538747526705265,0.0176229290664196,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+18,78,11181.0,11181.0,-0.0016145908739417791,0.017524108290672302,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+19,85,11203.0,11203.0,-0.0026080585084855556,0.01734844036400318,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+20,84,11202.0,11202.0,-0.0017135925590991974,0.017347289249300957,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+21,70,11119.0,11119.0,-0.0010578639339655638,0.01719685085117817,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+22,77,11180.0,11180.0,-0.001493385760113597,0.016849586740136147,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+23,82,11200.0,11200.0,-0.0012953048571944237,0.016708744689822197,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+24,38,10862.0,10862.0,-0.003135581500828266,0.016128145158290863,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+25,76,11179.0,11179.0,-0.0017094823997467756,0.016080833971500397,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+26,127985,http://eventID.org/6_193333,A_APPROVED | t=201112230926341320,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+27,128004,http://eventID.org/6_193476,A_CANCELLED | t=201201140915328060,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+28,127984,http://eventID.org/6_193315,A_APPROVED | t=201201051017488370,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+29,127983,http://eventID.org/6_193309,A_ACTIVATED | t=201112281243273360,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED
+30,127982,http://eventID.org/6_193297,A_DECLINED | t=201112221222585750,0.0,0.0,http://eventActivity.org/A_APPROVED (id=5),5,http://eventActivity.org/A_APPROVED

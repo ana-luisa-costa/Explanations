@@ -1,0 +1,242 @@
+{
+  "ttl": "/Users/Admin/Github/FidelityGNNs/data/raw/BPIC12_W/BPIC12_Subprocess_Work.ttl",
+  "model": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_W/best_val_model.pt",
+  "vocabs": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_W/best_val_vocabs.json",
+  "best_test": "/Users/Admin/Github/FidelityGNNs/data/processed_100_30_20/BPIC12_W/best_val.pt",
+  "out": "/Users/Admin/Github/FidelityGNNs/results/gradient_run/processed_100_30_20/BPIC12_W",
+  "num_test_pairs": 29702,
+  "explained_pair_indices": [
+    2551,
+    2649,
+    2796,
+    3804,
+    5981,
+    12854,
+    13028,
+    13377,
+    15242,
+    15632,
+    19430,
+    20704,
+    21306,
+    21848,
+    22602,
+    22974,
+    23344,
+    24941,
+    25490,
+    28970
+  ],
+  "tasks": [
+    "activity"
+  ],
+  "seed": 42,
+  "sample_seed": null,
+  "timestamp_utc": "2026-10-22T13:52:38.657997+00:00",
+  "k_hop": 0,
+  "gradient_exclude_dst": false,
+  "save_plots": true,
+  "noreorder_only": true,
+  "rows": [
+    {
+      "pair_idx": 2551,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 260010,
+      "dst_id": 262720,
+      "csv": "pair02551_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 2649,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 245998,
+      "dst_id": 281914,
+      "csv": "pair02649_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 2796,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 294528,
+      "dst_id": 295507,
+      "csv": "pair02796_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20incomplete%20dossiers"
+    },
+    {
+      "pair_idx": 3804,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 269835,
+      "dst_id": 271893,
+      "csv": "pair03804_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 5981,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 265316,
+      "dst_id": 267661,
+      "csv": "pair05981_activity_gradient.csv",
+      "pred_class_id": 3,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20incomplete%20dossiers"
+    },
+    {
+      "pair_idx": 12854,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 206740,
+      "dst_id": 211992,
+      "csv": "pair12854_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 13028,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 262918,
+      "dst_id": 265443,
+      "csv": "pair13028_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 13377,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 345851,
+      "dst_id": 352916,
+      "csv": "pair13377_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 15242,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 246867,
+      "dst_id": 282783,
+      "csv": "pair15242_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/W_Afhandelen%20leads"
+    },
+    {
+      "pair_idx": 15632,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 319116,
+      "dst_id": 329777,
+      "csv": "pair15632_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 19430,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 346183,
+      "dst_id": 353231,
+      "csv": "pair19430_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 20704,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 346247,
+      "dst_id": 353294,
+      "csv": "pair20704_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 21306,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 230419,
+      "dst_id": 234304,
+      "csv": "pair21306_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 21848,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 353349,
+      "dst_id": 359828,
+      "csv": "pair21848_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 22602,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 212379,
+      "dst_id": 217305,
+      "csv": "pair22602_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 22974,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 221953,
+      "dst_id": 226320,
+      "csv": "pair22974_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 23344,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 270093,
+      "dst_id": 272127,
+      "csv": "pair23344_activity_gradient.csv",
+      "pred_class_id": 1,
+      "pred_class_label": "http://eventActivity.org/W_Nabellen%20offertes"
+    },
+    {
+      "pair_idx": 24941,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 319704,
+      "dst_id": 330365,
+      "csv": "pair24941_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 25490,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 247646,
+      "dst_id": 283562,
+      "csv": "pair25490_activity_gradient.csv",
+      "pred_class_id": 0,
+      "pred_class_label": "http://eventActivity.org/W_Completeren%20aanvraag"
+    },
+    {
+      "pair_idx": 28970,
+      "task": "activity",
+      "method": "gradient",
+      "src_id": 283169,
+      "dst_id": 305653,
+      "csv": "pair28970_activity_gradient.csv",
+      "pred_class_id": 4,
+      "pred_class_label": "http://eventActivity.org/W_Afhandelen%20leads"
+    }
+  ]
+}

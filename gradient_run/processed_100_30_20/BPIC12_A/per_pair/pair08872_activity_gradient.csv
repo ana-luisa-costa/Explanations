@@ -1,0 +1,31 @@
+rank,entity_id,uri,label,gradXinput_signed,gradXinput_abs,dst_activity,pred_class_id,pred_class_label
+1,92,11299.0,11299.0,-0.016819849610328674,4.07558536529541,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+2,59807,201203011544023520,201203011544023520,-0.011002644896507263,3.4946107864379883,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+3,73948,http://eventActivity.org/A_ACCEPTED,A_ACCEPTED,1.132143497467041,3.004810333251953,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+4,73952,http://eventActivity.org/A_DECLINED,A_DECLINED,-0.9572129249572754,1.878250002861023,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+5,174,15000,15000,0.0033992230892181396,1.8436031341552734,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+6,73953,http://eventActivity.org/A_FINALIZED,A_FINALIZED,0.4828166663646698,1.7551593780517578,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+7,73951,http://eventActivity.org/A_CANCELLED,A_CANCELLED,-0.5933656096458435,1.575730323791504,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+8,59404,201202291527399880,201202291527399880,-0.004141774028539658,1.1253385543823242,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+9,134807,http://eventOtherC.org/COMPLETE,COMPLETE,-0.04105018079280853,0.8406096696853638,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+10,73950,http://eventActivity.org/A_APPROVED,A_APPROVED,0.017324253916740417,0.12566156685352325,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+11,73949,http://eventActivity.org/A_ACTIVATED,A_ACTIVATED,-0.019073300063610077,0.12401757389307022,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+12,73956,http://eventActivity.org/A_REGISTERED,A_REGISTERED,0.011050710454583168,0.11828988790512085,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+13,73871,http://caseID.org/214148,214148,-0.005494751036167145,0.10775230824947357,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+14,128000,http://eventID.org/6_193464,A_CANCELLED | t=201112271527181040,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+15,128001,http://eventID.org/6_193467,A_APPROVED | t=201201121348306120,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+16,128004,http://eventID.org/6_193476,A_CANCELLED | t=201201140915328060,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+17,128003,http://eventID.org/6_193473,A_ACTIVATED | t=201112221047150460,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+18,128005,http://eventID.org/6_193479,A_ACTIVATED | t=201112300744155770,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+19,128006,http://eventID.org/6_193482,A_REGISTERED | t=201112211528437740,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+20,128007,http://eventID.org/6_193497,A_REGISTERED | t=201112231015196670,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+21,128008,http://eventID.org/6_193506,A_CANCELLED | t=201112271546073830,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+22,128009,http://eventID.org/6_193524,A_CANCELLED | t=201112210936595520,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+23,128010,http://eventID.org/6_193530,A_CANCELLED | t=201201140915383020,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+24,128011,http://eventID.org/6_193536,A_CANCELLED | t=201201140915405520,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+25,128012,http://eventID.org/6_193542,A_CANCELLED | t=201201140915428580,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+26,128002,http://eventID.org/6_193470,A_APPROVED | t=201112300714159080,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+27,127999,http://eventID.org/6_193455,A_APPROVED | t=201112280859355170,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+28,127997,http://eventID.org/6_193449,A_CANCELLED | t=201201140915235840,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+29,128013,http://eventID.org/6_193554,A_CANCELLED | t=201201140915478110,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
+30,127977,http://eventID.org/6_193243,A_REGISTERED | t=201112230859262390,0.0,0.0,http://eventActivity.org/A_FINALIZED (id=3),3,http://eventActivity.org/A_FINALIZED
